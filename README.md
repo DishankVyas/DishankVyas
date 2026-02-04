@@ -52,12 +52,11 @@
 ### 📊 SYSTEM DIAGNOSTICS
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DishankVyas&theme=tokyonight-duo&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=00FF41&count_private=true" alt="GitHub Streak" />
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DishankVyas&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishankVyas&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DishankVyas&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
