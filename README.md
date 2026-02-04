@@ -1,60 +1,68 @@
-# ⚡ DISHANK VYAS | SYSTEMS & VISION ⚡
+# ⚡ DISHANK VYAS | THE MULTI-STACK ARCHITECT ⚡
 ### 3rd Year B.Tech Computer Engineering @ Mumbai
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&width=500&lines=VisionX+Qualcomm+Innovator;96.7%25+Deep+Learning+Accuracy;Full-Stack+Android+Architect;Algorithm+%26+Heuristics+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&width=500&lines=VisionX+Qualcomm+Innovator;96.73%25+Computer+Vision+Accuracy;Full-Stack+Android+Architect;Algorithm+%26+Heuristics+Specialist;FinTech+%26+Derivatives+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛡️ TECHNICAL ARSENAL
+### 🛠️ THE MULTI-STACK ARSENAL
 
-| **Category** | **Technologies & Frameworks** |
+#### 💻 Languages & Logic
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,py,ts,mysql,postgres,html,css" />
+</p>
+
+#### 🧠 AI, Frameworks & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,react,nodejs,express,nextjs,firebase,git,docker,apple" />
+</p>
+
+| **Field** | **High-Octane Proficiency** |
 | :--- | :--- |
-| **Languages** | `C++` `Java` `JavaScript` `Python` `SQL` `TypeScript` |
-| **Artificial Intelligence** | `TensorFlow` `Keras` `OpenCV` `U-Net` `CNN` `Heuristic Search` |
-| **Development** | `Node.js` `Express` `React` `Android SDK` `Firebase` `PostgreSQL` |
-| **Tools** | `Git` `Docker` `MacOS` `Mixed Precision Training` `Gradio` |
+| **C++ / STL** | High-performance algorithm design and competitive programming. |
+| **Full-Stack JS** | Building scalable real-time systems with the **PERN/MERN Stack**. |
+| **Mobile Development** | Gesture-based UI/UX in **Android (Java)** with Firebase integration. |
+| **Logic Programming** | Symbolic reasoning and academic problem solving with **Prolog**. |
+| **Database Mastery** | Complex schema normalization and high-speed **SQL** optimization. |
 
 ---
 
-### 📂 TOP INTELLIGENCE PROJECTS
+### 📂 MISSION-CRITICAL PROJECTS
 
 #### 🏛️ [Indian Monument Architectural Classification](https://github.com/DishankVyas)
-- **High-Performance Vision:** Achieved **96.73% Accuracy** using Inception ResNet V2.
-- **Innovation:** Engineered a custom **Saliency-based localized cropping** pipeline to isolate structural nuances of 8 distinct architectural styles.
-- **Optimization:** Utilized Two-Phase Transfer Learning and mixed-precision training on NVIDIA hardware.
+- **Tech:** TensorFlow, Inception ResNet V2, Saliency Detection.
+- **Results:** Achieved **96.73% Accuracy** by isolating structural features with a custom localized cropping pipeline.
 
 #### 🪞 [VisionX: Reflection Removal Model](https://github.com/DishankVyas)
-- **Problem:** Removing unwanted glass reflections from photographs for the **Qualcomm VisionX Hackathon**.
-- **The Solution:** A **U-Net inspired CNN** architecture with aggressive skip connections and automated image augmentation.
-- **Impact:** High-fidelity reconstruction of reflection-free ground truth imagery.
+- **Tech:** U-Net CNN, Keras, OpenCV.
+- **Background:** Built for the **Qualcomm VisionX Hackathon** to eliminate glass reflections using deep feature skip connections.
 
 #### 📱 [Swipe-News-App](https://github.com/DishankVyas)
-- **Experience:** A Tinder-style gesture-based news aggregator built in **Java**.
-- **Core Engine:** Real-time news delivery via REST APIs (Retrofit) and Firebase Firestore for offline persistence.
-- **Security:** Integrated Firebase Authentication for secure user onboarding.
+- **Tech:** Java, Android SDK, Firebase, Retrofit.
+- **Experience:** A Tinder-style aggregator with real-time API polling and offline persistence via Firestore.
 
 #### 🧩 [AI Wordle Solver](https://github.com/DishankVyas)
-- **Logic:** An intelligent Python-based solver utilizing advanced heuristics: **Information Entropy** and **Minimax strategies**.
-- **Interface:** Interactive deployment via Gradio, allowing for real-time performance analysis and comparative strategy benchmarking.
+- **Tech:** Python, Information Theory, Gradio.
+- **Logic:** Optimized game-solving using **Information Entropy** and **Minimax heuristics**.
 
 ---
 
-### 📊 ANALYTICS HUB
+### 📊 SYSTEM DIAGNOSTICS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DishankVyas&show_icons=true&theme=neon&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishankVyas&layout=compact&theme=neon" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DishankVyas&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishankVyas&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DishankVyas&theme=neon" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DishankVyas&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📡 CONNECTIVE TISSUE
+### 📡 CONNECT WITH ME
 
 <p align="left">
 <a href="https://linkedin.com/in/DishankVyas" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -64,6 +72,6 @@
 ---
 
 <p align="center">
-  <code>01010011 01001100 01000001 01011001</code><br>
-  <i>"Optimizing for accuracy, architecting for scale."</i>
+  <code>std::cout << "Optimizing the world, one commit at a time." << std::endl;</code><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </p>
