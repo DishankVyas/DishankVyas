@@ -48,9 +48,12 @@
 
 ---
 
-### 📊 SYSTEM DIAGNOSTICS
+### 📊 GITHUB STATS
+<!-- streak card -->
+![Streak](https://streak-stats.demolab.com?user=DishankVyas&theme=tokyonight-duo&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DishankVyas&theme=tokyonight-duo&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=00FF41&count_private=true&v=1" />
+<!-- contribution graph (GitHub's own widget — usually reliable) -->
+![Contribution Graph](https://ghchart.rshah.org/DishankVyas)
 ---
 
 ### 📡 CONNECT WITH ME
