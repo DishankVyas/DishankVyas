@@ -49,11 +49,11 @@
 ---
 
 ### 📊 GITHUB STATS
-<!-- streak card -->
-![Streak](https://streak-stats.demolab.com?user=DishankVyas&theme=tokyonight-duo&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DishankVyas&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DishankVyas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs,stars" />
+</p>
 
-<!-- contribution graph (GitHub's own widget — usually reliable) -->
-![Contribution Graph](https://ghchart.rshah.org/DishankVyas)
 ---
 
 ### 📡 CONNECT WITH ME
