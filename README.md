@@ -16,15 +16,14 @@
 
 #### 🧠 AI, Frameworks & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,react,nodejs,express,nextjs,firebase,git,docker,apple" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,react,nodejs,express,nextjs,firebase,git,docker" />
 </p>
 
 | **Field** | **High-Octane Proficiency** |
 | :--- | :--- |
-| **C++ / STL** | High-performance algorithm design and competitive programming. |
+| **C++ / STL** | High-performance data structures and algorithm design |
 | **Full-Stack JS** | Building scalable real-time systems with the **PERN/MERN Stack**. |
 | **Mobile Development** | Gesture-based UI/UX in **Android (Java)** with Firebase integration. |
-| **Logic Programming** | Symbolic reasoning and academic problem solving with **Prolog**. |
 | **Database Mastery** | Complex schema normalization and high-speed **SQL** optimization. |
 
 ---
