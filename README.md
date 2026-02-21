@@ -2,7 +2,7 @@
 ### 3rd Year B.Tech Computer Engineering @ Mumbai
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&width=500&lines=VisionX+Qualcomm+Innovator;96.73%25+Computer+Vision+Accuracy;Full-Stack+Android+Architect;Algorithm+%26+Heuristics+Specialist;FinTech+%26+Derivatives+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&width=500&lines=Full-Stack+Architect;Algorithm+%26+Heuristics+Specialist;FinTech+%26+Derivatives+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
