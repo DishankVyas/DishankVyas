@@ -1,4 +1,4 @@
-# ⚡ DISHANK VYAS | THE MULTI-STACK ARCHITECT ⚡
+#  DISHANK VYAS | THE MULTI-STACK ARCHITECT 
 ### 3rd Year B.Tech Computer Engineering @ Mumbai
 
 <p align="left">
@@ -56,7 +56,7 @@
 
 ---
 
-### 📡 CONNECT WITH ME
+### 📡 CONNECT
 
 <p align="left">
 <a href="https://www.linkedin.com/in/dishank-vyas-a9b0a7265/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
