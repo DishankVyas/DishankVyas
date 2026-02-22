@@ -1,4 +1,4 @@
-#  DISHANK VYAS | THE MULTI-STACK ARCHITECT 
+#  DISHANK VYAS
 ### 3rd Year B.Tech Computer Engineering @ Mumbai
 
 <p align="left">
